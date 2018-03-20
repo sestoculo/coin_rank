@@ -1,0 +1,22 @@
+1521401619167	geckodriver	INFO	geckodriver 0.20.0
+1521401619167	geckodriver	INFO	Listening on 127.0.0.1:52458
+1521401622198	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.awsTQzrDE25T"
+1521401624034	Marionette	INFO	Enabled via --marionette
+1521401627208	Marionette	INFO	Listening on port 52467
+1521401627604	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.JW6xum182X4I"
+1521401793770	Marionette	INFO	Enabled via --marionette
+1521401796434	Marionette	INFO	Listening on port 52520
+1521401796650	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521402321489	geckodriver	INFO	geckodriver 0.20.0
+1521402321504	geckodriver	INFO	Listening on 127.0.0.1:52596
+1521402324536	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.nBcaZhXhDxPb"
+1521402325422	Marionette	INFO	Enabled via --marionette
+1521402327494	Marionette	INFO	Listening on port 52604
+[Child 4100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521402327790	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
