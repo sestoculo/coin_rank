@@ -36,3 +36,40 @@
 [Parent 3448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
 1521532223742	geckodriver::marionette	ERROR	Failed to stop browser process
+1521536698572	geckodriver	INFO	geckodriver 0.20.0
+1521536698587	geckodriver	INFO	Listening on 127.0.0.1:50771
+1521536701635	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.0UgvAzFy7Hsp"
+1521536702504	Marionette	INFO	Enabled via --marionette
+1521536704556	Marionette	INFO	Listening on port 50779
+1521536704920	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521536706556	geckodriver::marionette	ERROR	Failed to stop browser process
+1521542254162	geckodriver	INFO	geckodriver 0.20.0
+1521542254162	geckodriver	INFO	Listening on 127.0.0.1:50890
+1521542257193	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.uVcmn9xemr3d"
+1521542258308	Marionette	INFO	Enabled via --marionette
+1521542260706	Marionette	INFO	Listening on port 50898
+1521542260926	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521542262679	geckodriver::marionette	ERROR	Failed to stop browser process
+1521542784508	geckodriver	INFO	geckodriver 0.20.0
+1521542784508	geckodriver	INFO	Listening on 127.0.0.1:50917
+1521542787540	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.VcEzS8NsGVmC"
+1521542788442	Marionette	INFO	Enabled via --marionette
+1521542791020	Marionette	INFO	Listening on port 50925
+1521542791262	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521542795415	geckodriver::marionette	ERROR	Failed to stop browser process
+1521543659950	geckodriver	INFO	geckodriver 0.20.0
+1521543659950	geckodriver	INFO	Listening on 127.0.0.1:51006
+1521543663044	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bartol\\AppData\\Local\\Temp\\rust_mozprofile.HHhxkeH6NhhB"
+1521543663888	Marionette	INFO	Enabled via --marionette
+1521543665710	Marionette	INFO	Listening on port 51014
+1521543666250	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521543670653	geckodriver::marionette	ERROR	Failed to stop browser process

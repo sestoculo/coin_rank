@@ -1,6 +1,7 @@
 from django.core.urlresolvers import resolve
 from django.test import TestCase
 from django.http import HttpRequest
+from django.template.loader import render_to_string
 
 #What function is that? It’s the view function we’re going to write next, which will
 #actually return the HTML we want. You can see from the import that we’re
@@ -39,3 +40,6 @@ class HomePageTest(TestCase):
         #in it—because that’s what we specified in our functional test.
         self.assertIn(b'<title>To-Do lists</title>', response.content) 
         self.assertTrue(response.content.endswith(b'</html>'))
+
+        expected_html = render_to_string('home.html')
+        self.assertEqual(response.content.decode(), expected_html)
